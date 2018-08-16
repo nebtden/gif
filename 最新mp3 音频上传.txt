@@ -1,0 +1,850 @@
+
+
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/He's my friend,John.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/Hi, John. This is my friend.Wang Tong.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/I'm from the USA.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/Nice to meet you,too. Where are you from.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/Nice to meet you,Wang Tong.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/Who's that boy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/Yes, I like sports. Let's play.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE1/You're tall.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE2/Hey I like bananas,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE2/I can get the grapes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE2/I'm big and tall. I can get the bananas.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE2/I'm short. I can get the strawberries.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE2/Look So much fruit.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE2/Sorry I like bananas.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/RECYCLE2/Where are the bananas.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/Boys and girls,we have two new friends today.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/Hi! Nice to meet you. Where are you from.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/I'm from the UK.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/Let's play a game.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/Nice to see you, too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/She's a new student.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/Welcome back Nice to see you again.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/Welcome.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT1/Wu Yifan, this is Amy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/Hey,I'm the Easter Bunny.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/How beautiful.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/How many eggs.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/Is he your father.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/Is she your mother.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/No, he isn't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/Sarah's grandfather.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/She's my mother.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/Who's that man.wav
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/Who's that woman.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT2/Yes, she is.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/Ah So cute.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/Come here,children.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/It has a long nose.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/It's so tall.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/Look at me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/Look at that monkey. It's so fat(1).mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/Look at that monkey. It's so fat.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/Look at the elephant.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT3/Look at the giraffe.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Good guess.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Have a good time.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Is it in the desk.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Is it on the desk.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/It's in your desk.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Let's go home.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Where is my car.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Where is my map.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Where is my pencil box.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT4/Where is Zip.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/An apple a day...mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/Do you like pears.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/Do you like watermelons.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/Have some grapes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/I like grapes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/I want some chicken and a hot dog.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/keeps the doctor away.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/Me,neither.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/No, I don't. I like bananas.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/Sorry, I don't like grapes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT5/Yes, I DO.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/Good idea.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/How many balloons do you have.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/How many birds do you see.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/How many crayons do you have.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/I have 11.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/I have 16.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/I see 13.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/Open it and see.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3down/UNIT6/The black one is a bird.mp3
+./mp3/rj_3up
+
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Baby, have some water.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Bobby.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Brown arms.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Bye.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Good morning, I'm Chen Jie.This is Sarah.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Hello.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Hey cat! Go away.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/I'm 2.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/I'm Tom. You are a big boy!How old are you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/I'm Zoom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Look at your face.I LIKE it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Look at your head. I like it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Look! Zoom and Zip.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Morning! What's your name.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Morning.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/My name's Zip.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/No, thanks.Can I have some bread,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/OK, wait a minute.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/recycle1.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/recycle2.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Thank you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/Thanks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/Recycle/White hands.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Are you Tutu.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Bye, Miss White.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Goodbye.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Hello! I'm Zoom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Hello, I'm Chen Jie.What's your name.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Hello, I'm Mike.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Hello, I'm Miss White.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Hi! My name's Zip.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Hi, I'm Wu Yifan.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Hi,I'm Sarah.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/I have a ruler.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/I have an eraser.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Me too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/My name's Sarah.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/Show me your pen.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT1/unit1.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Colour it brown.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Dad, this is Mr Jones.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Good afternoon, Yifan.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Good afternoon.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/I see red.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Let's paint.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Mr Jones, this is Miss Green.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Nice to meet you,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/Nice to meet you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/OK.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT2/unit2.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Good idea.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Great.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/How are you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/I'm fine, thank you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Let's go to school.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Let's play with the puppet.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Let's play.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Look at me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Look at my nose.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/OK.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/This is my face.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/unit3.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT3/Very well, thanks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/Act like a bird.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/Cool! I like it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/I have a carrot.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/It's a bear.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/It's a tiger.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/It's an elephant.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/Look, a panda.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/Look, Zoom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/Thanks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/unit4.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/What's that.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT4/What's this.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/Can I have some milk.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/Can I have some water,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/Have some bread, too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/Have some cake.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/Here you are.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/I'd like some bread, please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/I'd like some juice,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/Thank you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/unit5.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT5/You're welcome.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/Happy birthday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/Here you are.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/How many plates.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/How old are you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/I'm six.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/Show me six.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/Sure.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/This one, please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_3up/UNIT6/unit6.mp3
+
+
+./mp3/rj_4down
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/At 4 o'clock.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/It's 3 40. Time to go.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/It's cold outside.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/It's on the first floor.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/Oh, no Rain Where's the library.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/Oh, no.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/OK Let's go.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/We have a show in the library today.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/What time is it now.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/What time.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/Yes, I do.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE1/Yes, It's windy, too. Do you have a jacket.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/Are those cows They look hungry.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/Can I help you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/It's Sarah's. I like it, too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/That jacket is cool Whose is it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/That's 42 yuan in total.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/That's expensive.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/They're Sarah's Quick.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/Three bananas and two apples, please. How much is that.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/Tomorrow will be warm and sunny. Let's have a picnic tomorrow.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/Whose tomatoes are those.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/RECYCLE2/Yes, five tomatoes and two carrots, please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/Do you have an art room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/Here's my homework.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/How beautiful.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/I like storybooks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/Is this the teachers' office.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/It's next to the art room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/It's on the first floor.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/It's on the second floor.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/Look That's the playground.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/No, it isn't. It's the computer room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/No, it isn't. The teachers' office is next to the library.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/Oh,no! That's my library.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/This is the library.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/This way, please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/Where's the library.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT1/Where's the teachers' office.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Beijing,8 p.m.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Brasilia, 9 a.m.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Cairo, 2 p.m.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Come on!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Hurry up! It's time for school.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/It's 10 o'clock. It's time to go to bed.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/It's 12 o'clock. It's time for lunch.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/It's 2 o'clock. Let's play football.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/It's 5 o'clock.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/It's 7 o'clock. It's time to get up.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/It's time to watch TV.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Just a minute.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Let's go to the playground.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/London, 12 noon.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/New York, 7 a.m.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/OK.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/Sydney, 10 p.m.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/What time is it now.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT2/What time is it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Be careful!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Can I go outside now.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Can I make a snowman.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Have some lunch, Mike.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/How about Beijing.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/I have a cold.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Is it cold in Moscow.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Is it cold.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Is it snowing But it isn't cold.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/It's cloudy in Singapore.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/It's cold outside.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/It's hot and sunny in Sydney.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/It's rainy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/It's windy now.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/No, it isn't. It's 26 degrees.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/No, you can't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Oh, it'll be warm tomorrow in Dalian.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/This is the weather report.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/What's the weather like in London.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/What's the weather like in New York.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT3/Yes, it is. It's snowy here.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Are these carrots.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Are they hens.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Good idea.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/How many horses do you  have.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Let me try one... They're carrots.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Me too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/No, they aren't. They're ducks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Oh, I feel sleepy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Seventeen.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/They're sheep. Let me count...mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/What are these Are these potatoes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/What are these They're tomatoes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/What are those.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT4/Yes, they are.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/And those are my shoes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Dad, can I have your old T-shirt.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Is this John's.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Is this yours.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/It's mine.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/It's my brother's. Thanks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/No, it isn't. It's Mike's.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Sure.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/These are my blue pants.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/They're Chen Jie's.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/They're John's.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/What colour are they.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/What for.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Where are you, Zip.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/White.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Whose are these.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Whose cap is this.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Whose coat is this.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/Yes. Thank you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT5/You'll be a star.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Can I help you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Can I try it on.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Can I try them on.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/How much are those big shoes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/How much is this skirt.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/It's $89.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/It's eighty-five yuan.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Sarah, how do you like this skirt.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Size 6, please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Sorry, they're not for sale.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Sure.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/These shoes are nice.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/They're too small.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4down/UNIT6/Yes. This dress is pretty. How much is it.mp3
+
+
+./mp3/rj_4up
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/An English book,a maths book,a notebook and ten storybooks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Can you guess  She's friendly and she speaks English well.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/I don't know. What's her name.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/I know. It's Amy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Let me help you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/No. She's tall. She has short hair and big eyes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Sandy White, our English teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Ten.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Thanks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Who's your friend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Wow! Your bag is so heavy. What's in it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE1/Yes. They're my friend's story-books.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Come and meet my family.They're in the kitchen.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Help yourself.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/I'd like some turkey,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Is that your father.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Merry Christmas.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Nice to meet you,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Nice to meet you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/This is my mother.She's a nurse.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/This is our living room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Welcome.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/What would you like.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Would you like some juice.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Wow!It's beautiful.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Yes,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/RECYCLE2/Yes.He's Father Christmas now.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Excuse me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Hey,Zhang Peng.We have a new classroom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/It's near the computer.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/It's near the window.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/It's so big.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Let me clean the fish bowl..mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Let me clean the windows.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Let's clean the desks and chairs..mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Let's go and see.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Oh,sorry.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/The door is orange.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/This is the new classroom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/What's in the classroom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Where is it..mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Where is it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT1/Where's my schoolbag.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/An English book,a maths book,three storybooks and...mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/I have a maths book,a Chinese book...mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/I lost my notebook.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/It's blue and white.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/It's green.I like it very much.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/John,I have a new schoolbag.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/May I see it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/My schoolbag is heavy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/Put your Chinese book in your desk.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/What color is it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/What's in it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/What's in it£¿.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/What's in your schoolbag.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT2/Zoom,is wverything in your schoolbag.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/Guess!He's strong and he has two big eyes. He's very friendly.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/He has glasses and his shoes are blue.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/He's tall and strong.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/His name is Zhang Peng.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/I have a good friend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/It's me,Sarah.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/It's Zhang Peng.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/Please help me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/She's short and thin.She has two big eyes.She's cute.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/What's her name She's short and she has long hair. She has an orange schoolbag.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/What's his name.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/Who's he.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT3/Wu Yifan He's tall and thin. He has glasses.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Are they in the study.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Are they on the table.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Is she in the kitchen.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Is she in the living room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Look.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Mum,where are my crayons.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/No£¬She isn't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/No£¬they aren't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Oh, no.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Open the door,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/She's in the kitchen.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/They're in the door.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Where are the keys.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Where is she.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Where's the cat,Dad.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Zip is in the bath-room. I'm her sister.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT4/Zip,your living room is nice.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/Anything else.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/Cheers.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/Five yuan,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/Help yourself.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/Here you are.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/I'd like some beef.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/I'd like some vegetables.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/No,thanks.I can use chopsticks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/Some fish and vegetables,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/What would you like.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/What's for dinner.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT5/Would you like a knife and fork.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/And my little puppy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/But that's only five.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/Hi.Meet my family.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/How many people are there in your family.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/Is that your uncle.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/Is this your baby brother.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/My family has six people.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/Nine.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/No,it's me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/She's a nurse.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/That's Sarah's father. He's a doctor.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/What's your aunt's job.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/Wow.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_4up/UNIT6/Yes,it is. He's a football player.mp3
+
+
+./mp3/rj_5down
+
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/04.recycle01.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/And does it seem hard to you,.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/And dress by yellow candlelight.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/And I should like so much to play,.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/Autumn is my favourite season.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/I have to go to bed by day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/In summer,quite the other way,.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/In winter I get up at night.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/It is autumn in April here in Sydney.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/It is warm in the day and cool at night.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/What do you often do.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle1/What is the weather like in April in your city.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/08.recycle02.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/All the rest have thirty-one.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/Except in leap year.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/February has twenty-eight alone.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/He's swimming in the park in the south.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/I think he's playing and drinking with his friends.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/That's the time When February¡®s days are twenty nine.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/Thirty days has September,April,June and November.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/What is the monkey doing on his birthday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/Recycle2/Where is the monkey going on Thursday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/01.unit01.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/I always start class at 8 o'clock.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/I often clean my room and wash my clothes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/I often get up at 7 o'clock.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/I often go shopping with my mum.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/I often watch TV and play ping-pong with my father.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/Sometimes I play ping-pong with Zhang Peng.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/Today is Sunday!What do you do on the weekend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/Usually at 9 o'clock.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/We finish class at 1 o'clock.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/What do you do on the weekend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/When do you finish class in the morning.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/When do you get up.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/When do you start class in Spain.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT1/Why are you shopping today.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/02.unit02.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Autumn.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Because I like summer vacation.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Because the colours are pretty.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Do you like the music,children.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/I like spring best.There are beautiful flowers everywhere.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/I often go swimming.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Look at my picture,Miss White.I like summer best because of Children's Day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/The Four Seasons.Today we'll draw the seasons.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Welcome.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/What do you often do in summer.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Which season do you like best,Mike.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Which season do you like best.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Why.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Winter.I can sleep all day.How about you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Winter.I like snow.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT2/Yes,It's very beautiful.What is it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/03.unit03.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/Cool!I love the Great Wall.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/Hooray for May.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/Is the singing contest in May,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/It's in April.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/It's in July and August.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/It's in March.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/It's in May.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/It's usually in June.My mum will make zongzi then.I hope you can come and share some with us.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/That's very kind of you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/We usually have a school trip in autumn.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/We'll go to the Great Wall.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/When is Dragon Boat Festival.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/When is the party.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/When is the school trip this year.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/When is the summer vacation.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT3/When is Tree Planting Day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/05.unit04.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/A birthday cake for Mid-Autumn Day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/Good job,Zoom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/Happy Birthday,Mum.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/It's on April 1st.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/It's on the second Sunday in May.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/My birthday is on April 4th.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/My cousin's birthday is on Mid-Autumn Day this year.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/September 27th.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/Thank you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/That's my mother's birthday,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/There are some special days in April.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/We eat mooncakes.My family will also eat a birthday cake.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/What do you usually do on Mid-Autumn Day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/When is April Fool's Day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/When is Mid-Autumn Day this year.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/When is Mother's Day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT4/When is your birthday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/06.unit05.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Are these ours.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/He's  eating.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Hey Whose dog is this.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/I see.Why is it jumping.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Is he drinking water.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/It's a rabbit.It's mine.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/It's our dog.The dog is ours.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/It's playing with its friends.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/It's Zhang Peng's.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/No,he isn't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/No.It's his.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Oh,it's mine.He's sleeping.He's very tired.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/That picture of Beijing is beautiful.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/The carrots are theirs.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/The yellow picture is mine.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/What's that.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Whose carrots are these.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Whose is it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Wow What a beautiful painting!Is it yours.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT5/Yes,they are.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/07.unit06.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Haha.Look They're eating lunch!They're so cute.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/I'll show you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/It's playing with its mother.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/It's so exciting.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Keep to the right,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Keep your desk clean.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/She's listening to music in the classroom.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Shh.Talk quietly.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Sorry.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Sorry.What are you saying.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/They're eating lunch.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/What are they doing.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/What's the little monkey doing.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Where is Amy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Work quietly.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5down/UNIT6/Zoom Keep your desk clean.mp3
+
+
+./mp3/rj_5up
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle1/Look at that picture.That's Ms Zhang,our Chinese teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle1/Recycle1.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle1/What's she like Is she kind.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle1/Who's your Chinese teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle1/Yes.She's very kind,but she's strict sometimes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/And down the dark,dark stairs there is a dark,dark room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/And in the dark,dark box there is a big mouse.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/And in the dark,dark cupboard there is a dark,dark box.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/And in the dark,dark hallway there are some dark,dark stairs.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/And in the dark,dark house there is a dark,dark hallway. .mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/And in the dark,dark room there is a dark,dark cupboard.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/In a dark,dark wood there is a dark,dark house.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/Ouch!My tail.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/Recycle2/Recycle2.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Can I join you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/cool.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Do you know Mr Young.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/He's old.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/He's our music teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Hey,Ms Wang will be our new Chinese teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Is he young.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Is she strict.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Ms Wang will be our new Chinese teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/No,he isn't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/She's very kind.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Sure.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/This is Amy.She's quiet.She's very hard-working.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/This is Wu Yifan.He's very clever.He's polite,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Unit1.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/We have a new PE teacher.He's a good football player.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/What's she like.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Who is he.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Who's your art teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/Yes,sometimes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT1/You're great.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Do you often play football here.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Do you often play sports.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Do you often read books in this park.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Do you often read books on the weekend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/I have a PE class.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/I need to do some shopping.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Look at my picture.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/No,but I often sleep.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/No,I don't.I don't like sports.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/No,I don't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Oh, I love music.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Oh,I have a cooking class with your grandma.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/play sports.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/Unit2.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/What do you do on Thursdays,Grandpa.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT2/What do you have on Fridays.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/A sandwich,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/Don't eat too much.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/Happy birthday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/Here you are.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/I'd like some noodles.It's my birthday today.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/I'd like some water.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/Salad.It's healthy.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/The sandwich is delicious.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/They're delicious.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/Unit3.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/Very sweet.Yum.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/What would you like to drink.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/What would you like to eat.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT3/What's your favourite food.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/A little.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Can you do any kung fu,Juhn.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Don't throw me into the lake,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Great.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Hi.Can you play ping-pong.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/I can dance.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/I can do some kung fu,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/I can play the pipa.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/I can sing English songs.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Let's play together.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Sorry,I have an English class at 3 o'clock.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Unit4.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/We'll have an English party next Tuesday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/What can you do for the party,children.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/What can you do for the party.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Wonderful.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT4/Yes,I can.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Are there any tall buildings in the nature park.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Can you help me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Children,let's go to the forest.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Come on.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Hey,my computer is here on the desk.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/I want to go home.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/I'm hungry.Is there a restaurant beside the lake.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/In the park there is a high mountain.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Is there a river in the forest,Miss White.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Is there a river in the park.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Let's go boating.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Let's go to a nature park.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Look!There is a big white bird in the sky.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/My father can draw very well.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/My grandparents have a garden in front of their house.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/No,there aren't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/No,there isn't.Look!I have some food.Let's share.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/That's my grandma's garden.There are many pretty flowers in it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/There are many pretty fish in the river.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/There are so many pictures.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/There aren't many people.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/There is a big bed.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/There is a table beside the bed.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/This is my room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Unit5.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/What a nice day.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/What a nice photo.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/What's in the room.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Where is the ball.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Yes,there is.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/You look cool.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT5/Your room is really nice.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/aren't=are not.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/boating.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/bridge.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/building.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/forest.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/go boating.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/high.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/hill.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/house.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/lake.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/mountain.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/rabbit.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/river.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/tree.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/Unit6.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_5up/UNIT6/village.mp3
+
+
+./mp3/rj_6up
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Excuse me,sir.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Excuse me.Can you help me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Hey, Robin.Where is the science museum .mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/How can I get to the science museum.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/How can we get there.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/I don't know.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/I see.How can I get there.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/I want to buy a postcard.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/It's near the library.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/It's next to the museum.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/It's over there.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/OK.Let's go.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Robin,where is the museum shop.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Sure.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Thanks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Turn left at the bookstore.Then turn right at the hospital.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/Turn right at the school.Then go straight.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT1/What a great museum!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Good morning,John.How do you go to school.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Good morning.Mrs Smith!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Hi,Mike.Is this your bike.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/I often go by subway.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/I usually come on foot.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/In the USA people on bikes must wear one.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Let's go the the nature park.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Nice!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Oh,right!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Sometimes I come by bus.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Sorry.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Tnanks.How do you come to school.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/Wait!Don'tgo at the red light.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT2/You must pay attention to the traffic lights.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/Come on.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/Hmm,what am I going to do this weekend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/I have lots of comic books about space.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/I'm going to draw some pictures.What about you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/I'm going to look for some beautiful leaves.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/John is going to buy his favourite comic book.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/Mike is going to see a film.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/OK,now can you do it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/What are you going to do in the nature park.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT3/When are you going.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Cake,for sure!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Does he like doing word puzzles and going hiking.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Does he live in Sydney  No,he doesn't.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Does he live on the South Island.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/He likes doing kung fu and swimming.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/He likes reading stories.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/He lives in Canberra.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Join our football club!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Me too!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Oliver,this is my pen pal Peter.He's from New Zealand.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Shall we dance.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Sorry,I don't have any cake.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Tea's ready!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/What are his hobbies.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Why not.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Yes,he does.He lives on a farm.Look!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/Yes.What do you like.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT4/You like tea a lot!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/Cool!I'm going to be a head teacher one day.What about you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/He wants to work in a gym.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/He works near the sea.mp2
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/He works near the sea.xmp
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/Hey!My mother works near the sea too.She is a fisherwoman.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/How about a lion tamer.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/How does he go to work  By plane.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/Hu Bin likes sports.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/I see.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/I'm going to be a businessman!My father is a businessman.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/Maybe a bee farmer will get stung.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/My father is a pilot.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/No,I want to be a businessman.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/No.By car!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/She is a head teacher.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/We should study hard and stay healthy,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/What does your mother do,Oliver.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT5/Wow!Where does he work.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Afrer that...mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/After that,you won't feel so angry.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Don't be sad.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Everyone is happy!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/He should see a doctor this morning,so we can't go to the zoo today..mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Here you are.I'll go and get some drinks.Wait for me.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Hey,let's have some popcorn.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Hey,where's my popcorn.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/How does Dad feel now.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Mum,I feel ill.Should I count to ten,too.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Mum,if I feel angry,what should I do.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/No,dear.You should see a doctor.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/One day I can help you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/The cat is angry with them.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/They're afraid of him.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Well,first,take a deep breath.Thenyou should count to ten.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/What!How could you eat all the popcorn!We should share!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/What's wrong Your father is ill.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Why Because the mice are bad.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/You should do more exercise.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Yum!I'm so happy.I love popcorn!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6up/UNIT6/Yum!It was so good.mp3
+
+
+./mp3/rj_6down
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/RECYCLE/I go to school from Monday to Friday. My favourite day is Monday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/RECYCLE/It is time to leave our school.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/RECYCLE/Maths is my first class. I often answer maths questions. Sometimes they're difficult.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/RECYCLE/We will also give prizes to our good students.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/RECYCLE/We will draw pictures and sing songs.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/RECYCLE/What are they going to do at the party.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/How heavy is it.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/How tall are you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/I'm 1.6 metres tall. I'm taller than this dinosaur.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/I'm 1.65 metres.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/I'm 21 metres tall. I'm the tallest!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/It's five tons.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/It's so tall.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/It's taller than both of us together.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/My shoes are size 35.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/Some dinosaurs are bigger than houses. Some are smaller than our schoolbags.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/That's the tallest dinosaur in this hall.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/What size are your shoes.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT1/Your feet are bigger than mine.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/Did you do anything else.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/Did you play football with Zhang Peng.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/How was your weekend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/I cleaned my room and washed my clothes on Saturday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/I want to buy the new film magazine.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/It was good, thank you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/Was it interesting.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/Well, I stayed at home with your grandma.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/What did you do last weekend.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT2/Yes, I did. We played football on Sunday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Am I now on the moon.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Can I come and visit you.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Did you go to Turpan.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/How did you go there.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/I can't believe it!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/I fell off my bike and hurt my foot.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/It looks like a mule!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/It's time to go.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Mt. Tianshan,Xinjiang.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/My parents and my uncle.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Oh dear! Are you all right.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Sounds great!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Sure! You can see my photos from the Labour Day holiday.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/We went there by plane.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Where did you go.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Who did you go with.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Yes, I did. I saw lots of grapes and ate lots of mutton kebabs. They were delicious.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/Yes, I'm OK. Thanks.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT3/You didn't  come to school. What happened.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/Before, I was quiet. Now, I'm very active in class.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/How do you know that.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/No, so I didn't like PE class very much. I could't run fast or play basketball well.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/Our school was small!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/Tell us about your school,please.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/There was no gym either!.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/There was no library in my old school.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/There were no computers or Internet in my time.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/We didn't have a library, and there were't any computer rooms at all.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/Yifan, that's your father.mp3
+http://shushan-static.oss-cn-hangzhou.aliyuncs.com/mp3/rj_6down/UNIT4/You weren't very big then, Mr Wu!.mp3
+
+
+
