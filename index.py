@@ -1,5 +1,5 @@
 import os
-from upload import change_and_upload
+from shushan import change_and_upload
 
 
 my_open = open('./gif.txt', 'a', encoding="utf-8")

@@ -13,7 +13,6 @@ dir = r'./pinyin'
 my_open = open('./upload.txt', 'a', encoding="utf-8")
 
 my_open.write('\n')
-my_open.write('\n')
 my_open.write(dir)
 my_open.write('\n')
 
